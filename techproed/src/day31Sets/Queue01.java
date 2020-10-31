@@ -23,8 +23,24 @@ public class Queue01 {
 		//poll returns null for empty queues
 		System.out.println(q1.poll()+"  "+ q1);
 		
-		
-		
-	}
 
-}
+	
+
+			
+
+		TreeSet<String> tSet = new TreeSet<>();
+
+		tSet.add("C");
+
+		tSet.add("B");
+
+		tSet.add("C");
+
+		tSet.add("A");
+
+		for (String w : tSet){
+
+			System.out.printf(w + " ");
+		}}}
+
+
