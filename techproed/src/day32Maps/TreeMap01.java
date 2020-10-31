@@ -7,7 +7,7 @@ public class TreeMap01 {
 		// TODO Auto-generated method stub
 		/*
 		 1)TreeMap puts the elements in natural order
-		 2)TreeMap is the solwest Map
+		 2)TreeMap is the solve Map
 		 3)TreeMap is not-synchronized and not-thread-safe
 		 4)TreeMap does not accept null as key, but accepts multiple null as value.
 		*/
