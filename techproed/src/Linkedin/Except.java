@@ -1,4 +1,4 @@
-package Linekdin;
+package Linkedin;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

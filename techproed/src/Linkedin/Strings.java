@@ -1,4 +1,4 @@
-package Linekdin;
+package Linkedin;
 
 public class Strings {
 
